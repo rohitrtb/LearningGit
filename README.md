@@ -1,2 +1,1 @@
-# LearningGit
-Learning Git commands
+Hello, this is a new modification for learning git commands!
